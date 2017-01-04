@@ -153,7 +153,7 @@ class java::params {
             },
           }
         }
-        'stretch', 'vivid', 'wily', 'xenial': {
+        'stretch', 'vivid', 'wily', 'xenial', 'kali-rolling': {
           $java =  {
             'jdk' => {
               'package'          => 'openjdk-8-jdk',
